@@ -1,0 +1,6 @@
+ownerID=YOUR_TELEGRAM_ACCOUNT_ID
+dbUri="MONGODB_URI"
+dbName="DATABASE_NAME"
+api_id = "YOUR_API_ID"
+api_hash = "YOUR_API_HASH"
+session="SESSION_NAME"

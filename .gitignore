@@ -1,0 +1,4 @@
+config.py
+name.session
+__pycache__/
+Plugins/__pycache__/
